@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(207, 8, 207);
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    margin: 0 auto;
+    background: linear-gradient(37deg, #f3a3e6, #32eb6a);
+    background-size: cover;
+    background-repeat: none;
+}
