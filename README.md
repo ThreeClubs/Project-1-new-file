@@ -1,9 +1,4 @@
 # Project-1-new-file
 
-<<<<<<< HEAD
-Got it!
-=======
-Yep, for some reason this made no sense to me and I couldn't keep up so I did it with VS code
+Merged all branches to main - success!
 
-    <!-- This is a test  -->
->>>>>>> feature/timer
